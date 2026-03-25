@@ -87,6 +87,8 @@
 </div>
 ## 🔝 Top Contributed Repo:
 <div style="margin-bottom: 30px;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehalDixitOfficial&layout=compact&theme=great-gatsby" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehalDixitOfficial&repo=Spendture&theme=great-gatsby" />
 </div>
 </div>
