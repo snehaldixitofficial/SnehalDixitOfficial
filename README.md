@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/snehaldixitofficial">
+<a href="https://www.linkedin.com/in/SnehalDixitOfficial">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -73,9 +73,9 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://githubreadmestats.vercel.app/api?username=SnehalDixitOfficial&theme=greatgatsby&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?username=SnehalDixitOfficial&theme=great-gatsby&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehalDixitOfficial&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SnehalDixitOfficial&theme=great-gatsby&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehalDixitOfficial&theme=great-gatsby&layout=compact" />  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehalDixitOfficial&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 
