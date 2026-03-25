@@ -73,8 +73,8 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://githubreadmestats.vercel.app/apiusername=SnehalDixitOfficial&theme=greatgatsby&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SnehalDixitOfficial&theme=great-gatsby&hide_border=false" />
+  <img src="https://githubreadmestats.vercel.app/api?username=SnehalDixitOfficial&theme=greatgatsby&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?username=SnehalDixitOfficial&theme=great-gatsby&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehalDixitOfficial&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
