@@ -7,7 +7,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SnehalDixitOfficial)
 
 # 💫 About Me:                                                                            
--👋 Hi, I’m Snehal Dixit<br>-♠♠ AKA: @SnehalDixitOfficial<br>-👀 I’m interested in programming and hardware (yes, interesting!).<br>-🌱 I’m currently learning C++, Python, and Full-Stack Web Development.<br>-💞️ I’m looking to collaborate on AI-related open-source projects.<br>-🌍 My Website: https://snehaldixitofficialwebsite.vercel.app/<br>-📫 How to reach me: snehaldixit237@gmail.com<br>-😄 Pronouns: She/Her<br>
+-👋 Hi, I’m Snehal Dixit<br>-♠♠ AKA: @SnehalDixitOfficial<br>-👀 I’m interested in programming and hardware (yes, interesting!).<br>-🌱 I’m currently learning C++, Python, and Full-Stack Web Development.<br>-💞️ I’m looking to collaborate on AI-related open-source projects.<br>-🌍 My Website: https://snehaldixitwebsite.vercel.app/<br>-📫 How to reach me: snehaldixit237@gmail.com<br>-😄 Pronouns: She/Her<br>
 
 # 💻 Tech Stack:
 <div align="center">
