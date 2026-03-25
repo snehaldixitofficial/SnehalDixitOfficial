@@ -85,13 +85,7 @@
 "I'm 18 (2026) (My Birthday is on May 🙂), building robots, writing code, and learning every day, not to decorate a profile, but to create things that matter. Future me doesn’t get excuses. Present me does the work."
 
 </div>
-## 🔝 Top Contributed Repo:
-<div style="margin-bottom: 30px;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehalDixitOfficial&layout=compact&theme=great-gatsby" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehalDixitOfficial&repo=Spendture&theme=great-gatsby" />
-</div>
-</div>
+
 
 ## 📈 Activity Graph:
 <div align="center">
