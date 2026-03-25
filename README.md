@@ -87,7 +87,8 @@
 </div>
 ## 🔝 Top Contributed Repo:
 <div style="margin-bottom: 30px;" align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SnehalDixitOfficial&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehalDixitOfficial&layout=compact&theme=great-gatsby" />
+</div>
 </div>
 
 ## 📈 Activity Graph:
@@ -96,7 +97,7 @@
 </div>
 
 ## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/SnehalDixitOfficial/SnehalDixitOfficial/output/snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/SnehalDixitOfficial/SnehalDixitOfficial/output/github-contribution-grid-snake-dark.svg" />
 
 </details>
 
