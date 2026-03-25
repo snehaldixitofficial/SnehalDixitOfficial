@@ -96,7 +96,7 @@
 </div>
 
 ## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/AdilSukumar/SnehalDixitOfficial/output/snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/SnehalDixitOfficial/SnehalDixitOfficial/output/snake-dark.svg" />
 
 </details>
 
